@@ -1,9 +1,9 @@
 
 <h2 align="center">Hello there! My name is Mohamed Nuh. 👋</h2>
-<p align="center">I'm currently learning AWS :student:. I'm passionate about areas of Front End Development learning:man_technologist:. 
+<p align="center">I'm currently a Product Manager:man_technologist:. 
 </p>
 
-<p align="center">When I'm not developing and coding, you can find me playing basketball or doing Jiu Jitsu. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
+<p align="center">When I'm not building products or coding, you can find me playing basketball or doing Jiu Jitsu. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
 
 <p align="center"><a href="https://twitter.com/oldroot07"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mohamed-nuh-215674199/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/madeby254/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
